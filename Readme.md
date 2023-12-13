@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Data can be found here:
-https://www.kaggle.com/datasets/gauravduttakiit/loan-defaulter
+https://drive.google.com/drive/folders/1sKC67cUghxiy9Zxm0k8_hZahtqclf402?usp=sharing
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/90474550/188308783-b34b3618-00d1-44ab-a8c4-7ae4a958616b.png)
 ![image](https://user-images.githubusercontent.com/90474550/188308807-eab90fc0-e707-4ceb-9c7b-a880a7bc54cb.png)
